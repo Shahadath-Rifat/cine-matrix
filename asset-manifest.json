@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cine-matrix1/static/css/main.2c345de5.css",
-    "main.js": "/cine-matrix1/static/js/main.1ba401ce.js",
-    "index.html": "/cine-matrix1/index.html",
-    "main.2c345de5.css.map": "/cine-matrix1/static/css/main.2c345de5.css.map",
-    "main.1ba401ce.js.map": "/cine-matrix1/static/js/main.1ba401ce.js.map"
+    "main.css": "/cine-matrix/static/css/main.2c345de5.css",
+    "main.js": "/cine-matrix/static/js/main.1ba401ce.js",
+    "index.html": "/cine-matrix/index.html",
+    "main.2c345de5.css.map": "/cine-matrix/static/css/main.2c345de5.css.map",
+    "main.1ba401ce.js.map": "/cine-matrix/static/js/main.1ba401ce.js.map"
   },
   "entrypoints": [
     "static/css/main.2c345de5.css",
