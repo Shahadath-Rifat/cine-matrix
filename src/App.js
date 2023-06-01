@@ -12,7 +12,7 @@ import AddMovies from './components/AddMovies';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename='/cine-matrix'>
           <Header />
           <Routes>
                 <Route index element={<Home />}></Route>
